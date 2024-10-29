@@ -1,6 +1,8 @@
 # Vector-C
 *Under construction.*
+
 A C implementation for C++'s ``std::vector``.
+
 Variables and Functions:
 ```c
 typedef struct {
