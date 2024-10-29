@@ -21,7 +21,7 @@ __inline__ int Vector_Empty(const Vector *A);
 __inline__ int Vector_Size(const Vector *A);
 __inline__ int Vector_Capacity(const Vector *A);
 __inline__ void Vector_Reserve(Vector *A);
-__inline__ void Vector_clear(Vector *A);
+__inline__ void Vector_Clear(Vector *A);
 __inline__ void Vector_PushBack(Vector *A, const void *p_val);
 __inline__ void Vector_PopBack(Vector *A);
 __inline__ void Vector_Resize(Vector *A, int size);
